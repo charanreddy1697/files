@@ -1,3 +1,8 @@
 { "name" : "charan kumar reddy",
-  "age" : 27
+  "age" : 28,
+  "place" : "Hyderabad",
+
+  "monday" : ["happy", "good"]
+  
+
 }
